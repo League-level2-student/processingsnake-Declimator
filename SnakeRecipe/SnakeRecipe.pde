@@ -6,16 +6,17 @@
 class Segment {
 
   //2. Create x and y member variables to hold the location of each segment.
-
+int x;
+int y;
   // 3. Add a constructor with parameters to initialize each variable.
 
-
   // 4. Add getter and setter methods for both the x and y member variables.
+  
 }
 
 
 // 5. Create (but do not initialize) a Segment variable to hold the head of the Snake
-
+Segment head;
 
 
 // 6. Create and initialize a String to hold the direction of your snake e.g. "up"
